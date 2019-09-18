@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #fff;
+    border: 4px dotted black;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.square-js{
+    width: 30px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    background-color: black;
+    margin: 5px;
+    float: left;
+}
+
+.circle{
+    background-color: #fff;
+    border-radius: 50%;
+    color: black;
+    border: 2px solid black;
+}
